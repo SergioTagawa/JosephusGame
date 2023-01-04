@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ButtonHandler
+comment1.params=Comecar\ Sair
+comment1.target=ButtonHandler(javax.swing.JButton,\ javax.swing.JButton)
+comment2.params=evento
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

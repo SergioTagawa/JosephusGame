@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=JogoGUI
+comment1.params=g\ posicaoX\ posicaoY\ raio\ quantidadeDePontos\ cor
+comment1.target=void\ jogo(java.awt.Graphics,\ int,\ int,\ int,\ int,\ java.awt.Color)
+comment2.params=n\ k
+comment2.target=int\ josephus(int,\ int)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+numComments=4
